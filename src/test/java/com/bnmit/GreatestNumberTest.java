@@ -16,6 +16,6 @@ public class GreatestNumberTest {
     public void testgreatest() {
     GreatestNumber obj=new GreatestNumber();
 
-    assertEquals(5,obj.findGreatest(5,10));
+    assertEquals(20,obj.findGreatest(20,10));
     }
 }
